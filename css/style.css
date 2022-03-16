@@ -1,0 +1,21 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(11, 11, 211);
+}
+.container{
+    margin: 10px;
+}
+.principal{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    margin: 50%;
+}
+#primeraParte, #segundaParte, #comentario{
+    margin: 5px;
+    color: rgb(216, 68, 31);
+}
+.volver{
+    margin: 5% 0% 0% 90%;
+}
