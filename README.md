@@ -5,4 +5,6 @@ Mientras que el **segundo** está divididos en dos partes, ambas mismas evalúan
 # Ejecución y prueba
 Recomiendo ingresar al siguiente link y elegir el ejercicio a evaluar:
 
+https://cyberclickff.netlify.app/
+
 > **Nota:** En el primer ejercicio se pueden observar, mediante la ejecución de la consola del navegador, los números generados en pos de verificar a cuales reemplaza el script
